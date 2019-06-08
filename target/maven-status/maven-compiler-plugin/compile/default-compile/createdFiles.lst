@@ -1,0 +1,5 @@
+springbootdemo\dao\TaskRepository.class
+springbootdemo\service\TaskService.class
+springbootdemo\controller\MainController.class
+springbootdemo\MainClass.class
+springbootdemo\model\Task.class
